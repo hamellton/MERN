@@ -1,0 +1,4 @@
+{
+    "port": 5000,
+    "mongoUrl": "mongodb+srv://certiport:5c9c6a1b@cluster0.olvsz.mongodb.net/certiport?retryWrites=true&w=majority"
+}
