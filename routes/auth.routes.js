@@ -57,7 +57,7 @@ router.post(
 
         } catch (error) {
             res.status(500).json({
-                message: 'Что-то пошло не такб попробуйте снова'
+                message: 'Что-то пошло не так попробуйте снова'
             })
         }
     })
