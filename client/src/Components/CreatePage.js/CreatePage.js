@@ -1,15 +1,15 @@
 import React from 'react'
 import { Navbar } from '../Navbar/Navbar'
 
-export let LinksPage = () => {
-    return (
+export let CreatePage =  () => {
+    return(
         <div>
             <Navbar />
             <div>
-                <h1>Links Page component</h1>
+            <h1>Create page component</h1>
             </div>
         </div>
     )
 }
 
-// export default LinksPage
+// export default CreatePage
